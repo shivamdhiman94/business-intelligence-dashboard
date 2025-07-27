@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Business Dashboard",
+			"type": "shell",
+			"command": "C:/Users/deeps/AppData/Local/Programs/Python/Python311/python.exe",
+			"args": [
+				"dashboard_advanced.py"
+			],
+			"group": "build",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}

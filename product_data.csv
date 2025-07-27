@@ -1,0 +1,21 @@
+Product,Category,Revenue,Units_Sold,Avg_Price,Profit_Margin,Customer_Rating,Launch_Date
+Smartphone Pro,Electronics,79705.4,914,87.21,0.435,3.8,2023-04-27
+Laptop Ultra,Electronics,120216.5,323,372.19,0.295,4.7,2023-11-22
+Wireless Headphones,Electronics,397284.32,961,413.41,0.333,4.2,2023-01-25
+Smart Watch,Electronics,32388.59,108,299.89,0.37,3.7,2023-09-20
+Gaming Console,Electronics,263006.07,611,430.45,0.254,4.2,2023-12-26
+Tablet Plus,Electronics,310996.02,756,411.37,0.416,3.9,2023-05-27
+Camera DSLR,Electronics,156661.93,1210,129.47,0.394,4.5,2023-01-22
+Bluetooth Speaker,Electronics,513797.77,1052,488.4,0.203,3.7,2023-01-27
+Designer Jacket,Clothing,66000.53,647,102.01,0.367,4.9,2023-09-05
+Running Shoes,Clothing,236783.79,1459,162.29,0.351,3.8,2023-11-16
+Casual Shirt,Clothing,38170.05,414,92.2,0.423,3.5,2023-06-21
+Jeans Premium,Clothing,62591.68,1860,33.65,0.274,4.4,2023-06-02
+Garden Tools Set,Home & Garden,9231.53,111,83.17,0.367,3.7,2023-03-29
+Kitchen Mixer,Home & Garden,38909.49,210,185.28,0.346,4.5,2023-09-24
+Outdoor Furniture,Home & Garden,53456.67,346,154.5,0.437,4.8,2023-11-22
+LED TV,Electronics,186449.99,745,250.27,0.283,4.2,2023-12-21
+Fitness Tracker,Electronics,50039.74,422,118.58,0.413,4.8,2023-12-22
+Desk Organizer,Home & Garden,55093.06,1089,50.59,0.282,4.3,2023-06-01
+Travel Backpack,Other,491359.13,1940,253.28,0.285,4.0,2023-07-01
+Coffee Maker,Home & Garden,383941.54,1731,221.8,0.232,4.9,2023-06-17
